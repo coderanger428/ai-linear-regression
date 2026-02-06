@@ -17,10 +17,9 @@ A simple implementation of **Linear Regression from scratch** using NumPy. This 
 linear-regression/
 ├── README.md
 ├── data/
-│ └── sample_data.csv # optional dataset
+│ └── housing.csv # sample dataset
 ├── src/
 │ ├── linear_regression.py # core implementation
-│ ├── utils.py # helper functions (optional)
 │ └── train.py # training / evaluation script
 ├── notebooks/
 │ └── linear_regression_demo.ipynb # interactive demo and visualization
