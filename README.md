@@ -44,7 +44,7 @@ venv\Scripts\activate
 2. **Clone the repository**
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/coderanger428/ai-linear-regression.git
 cd linear-regression
 ```
 
