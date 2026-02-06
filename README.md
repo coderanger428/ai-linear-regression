@@ -28,6 +28,18 @@ linear-regression/
 
 ## Getting Started
 
+1. **Create a virtual environment (recommended)**
+
+```bash
+# On Linux / macOS
+python3 -m venv venv
+source venv/bin/activate
+
+# On Windows
+python -m venv venv
+venv\Scripts\activate
+```
+
 1. **Clone the repository**
 
 ```bash
@@ -38,18 +50,17 @@ cd linear-regression
 1. **Install dependencies**
 
 ```bash
+pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-1. **Run training script**
+1. **Running the project**
 
 ```bash
+# Train the model
 python src/train.py
-```
 
-1. **Explore in Jupyter Notebook**
-
-```bash
+# Or Explore in Jupyter Notebook**
 jupyter notebook notebooks/linear_regression_demo.ipynb
 ```
 
