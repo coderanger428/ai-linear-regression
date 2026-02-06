@@ -13,6 +13,7 @@ A simple implementation of **Linear Regression from scratch** using NumPy. This 
 
 ## Repository Structure
 
+```bash
 linear-regression/
 ├── README.md
 ├── data/
@@ -25,6 +26,7 @@ linear-regression/
 │ └── linear_regression_demo.ipynb # interactive demo and visualization
 ├── requirements.txt
 └── .gitignore
+```
 
 ## Getting Started
 
