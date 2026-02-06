@@ -41,21 +41,21 @@ python -m venv venv
 venv\Scripts\activate
 ```
 
-1. **Clone the repository**
+2. **Clone the repository**
 
 ```bash
 git clone <your-repo-url>
 cd linear-regression
 ```
 
-1. **Install dependencies**
+3. **Install dependencies**
 
 ```bash
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-1. **Running the project**
+4. **Running the project**
 
 ```bash
 # Train the model
